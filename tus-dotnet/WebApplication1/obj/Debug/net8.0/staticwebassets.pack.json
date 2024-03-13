@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\桌面\\WebApplication1\\WebApplication1\\wwwroot\\tusfiles\\8fb92f40b33d49c698dad75f65808ff5",
+      "PackagePath": "staticwebassets\\tusfiles"
+    },
+    {
+      "Id": "F:\\桌面\\WebApplication1\\WebApplication1\\wwwroot\\tusfiles\\8fb92f40b33d49c698dad75f65808ff5.chunkstart",
+      "PackagePath": "staticwebassets\\tusfiles\\8fb92f40b33d49c698dad75f65808ff5.chunkstart"
+    },
+    {
+      "Id": "F:\\桌面\\WebApplication1\\WebApplication1\\wwwroot\\tusfiles\\8fb92f40b33d49c698dad75f65808ff5.expiration",
+      "PackagePath": "staticwebassets\\tusfiles\\8fb92f40b33d49c698dad75f65808ff5.expiration"
+    },
+    {
+      "Id": "F:\\桌面\\WebApplication1\\WebApplication1\\wwwroot\\tusfiles\\8fb92f40b33d49c698dad75f65808ff5.metadata",
+      "PackagePath": "staticwebassets\\tusfiles\\8fb92f40b33d49c698dad75f65808ff5.metadata"
+    },
+    {
+      "Id": "F:\\桌面\\WebApplication1\\WebApplication1\\wwwroot\\tusfiles\\8fb92f40b33d49c698dad75f65808ff5.uploadlength",
+      "PackagePath": "staticwebassets\\tusfiles\\8fb92f40b33d49c698dad75f65808ff5.uploadlength"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uRUo44CmGgh6rmD3OxhbSRWp6LyV0SL2eP7cLyOTwdbOgFDSfu6oc4XKGICENu8RaesMuFyDVgt7fDAd1ECMwg==",
+  "success": true,
+  "projectFilePath": "F:\\桌面\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "D:\\Program Files (x86)\\Nuget\\.nuget\\tusdotnet\\2.8.0\\tusdotnet.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
